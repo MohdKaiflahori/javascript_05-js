@@ -9,6 +9,7 @@ Unix main cmd which is use in this process is :
 1 - Mkdir(make a directory)
 2 - cp filename directoryname (directoryname where you want to paste this file) 
 3 - cd (if you want to go back or  another directory use this cmd) 
+4 - code . (open vs code using this cmd)
 
 
 
